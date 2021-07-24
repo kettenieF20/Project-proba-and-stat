@@ -1,0 +1,808 @@
+,key,values,quest_id
+0,item1,Finance,905ddcf2-ce95-11eb-9a92-7c67a234f601
+1,item6,Technology (Software/ Internet),905e2608-ce95-11eb-809f-7c67a234f601
+2,item5,Education,905e2608-ce95-11eb-809f-7c67a234f601
+3,item3,Consulting,905e2608-ce95-11eb-809f-7c67a234f601
+4,item7,Energy,905e2608-ce95-11eb-809f-7c67a234f601
+5,item12,Marketing,905e2608-ce95-11eb-809f-7c67a234f601
+6,item8,Retail/ E-Commerce,905e4cf5-ce95-11eb-96a9-7c67a234f601
+7,item12,Marketing,905e4cf5-ce95-11eb-96a9-7c67a234f601
+8,item6,Technology (Software/ Internet),905e4cf5-ce95-11eb-96a9-7c67a234f601
+9,item5,Education,905e4cf5-ce95-11eb-96a9-7c67a234f601
+10,item3,Consulting,905e4cf5-ce95-11eb-96a9-7c67a234f601
+11,item1,Finance,905e73fd-ce95-11eb-a7b0-7c67a234f601
+12,item6,Technology (Software/ Internet),905e73fd-ce95-11eb-a7b0-7c67a234f601
+13,item6,Technology (Software/ Internet),905e9b27-ce95-11eb-9c37-7c67a234f601
+14,item8,Retail/ E-Commerce,905e9b27-ce95-11eb-9c37-7c67a234f601
+15,item4,Public Sector/ Non-Profit Agencies,905e9b27-ce95-11eb-9c37-7c67a234f601
+16,item13,Communications,905e9b27-ce95-11eb-9c37-7c67a234f601
+17,item5,Education,905e9b27-ce95-11eb-9c37-7c67a234f601
+18,item4,Public Sector/ Non-Profit Agencies,905ec1ec-ce95-11eb-8136-7c67a234f601
+19,item6,Technology (Software/ Internet),905ec1ec-ce95-11eb-8136-7c67a234f601
+20,item6,Technology (Software/ Internet),905ec1ed-ce95-11eb-829c-7c67a234f601
+21,item6,Technology (Software/ Internet),905ef688-ce95-11eb-9b57-7c67a234f601
+22,item13,Communications,905f0fbd-ce95-11eb-b153-7c67a234f601
+23,item3,Consulting,905f0fbd-ce95-11eb-b153-7c67a234f601
+24,item5,Education,905f0fbd-ce95-11eb-b153-7c67a234f601
+25,item6,Technology (Software/ Internet),905f36c8-ce95-11eb-bef0-7c67a234f601
+26,item2,Healthcare,905f36c9-ce95-11eb-aa33-7c67a234f601
+27,item5,Education,905f36c9-ce95-11eb-aa33-7c67a234f601
+28,item6,Technology (Software/ Internet),905f36c9-ce95-11eb-aa33-7c67a234f601
+29,item12,Marketing,905f36c9-ce95-11eb-aa33-7c67a234f601
+30,item8,Retail/ E-Commerce,905f36ca-ce95-11eb-9411-7c67a234f601
+31,item12,Marketing,905f36ca-ce95-11eb-9411-7c67a234f601
+32,item6,Technology (Software/ Internet),905f36ca-ce95-11eb-9411-7c67a234f601
+33,item6,Technology (Software/ Internet),905f5dbf-ce95-11eb-a1fb-7c67a234f601
+34,item7,Energy,905f5dbf-ce95-11eb-a1fb-7c67a234f601
+35,item1,Finance,905f5dbf-ce95-11eb-a1fb-7c67a234f601
+36,item8,Retail/ E-Commerce,905f5dbf-ce95-11eb-a1fb-7c67a234f601
+37,item13,Communications,905f5dbf-ce95-11eb-a1fb-7c67a234f601
+38,item6,Technology (Software/ Internet),905f5dc0-ce95-11eb-8056-7c67a234f601
+39,item2,Healthcare,905f5dc1-ce95-11eb-bfa7-7c67a234f601
+40,item3,Consulting,905f5dc1-ce95-11eb-bfa7-7c67a234f601
+41,item4,Public Sector/ Non-Profit Agencies,905f5dc1-ce95-11eb-bfa7-7c67a234f601
+42,item6,Technology (Software/ Internet),905f5dc1-ce95-11eb-bfa7-7c67a234f601
+43,item12,Marketing,905f5dc1-ce95-11eb-bfa7-7c67a234f601
+44,item7,Energy,905f84ab-ce95-11eb-8886-7c67a234f601
+45,item6,Technology (Software/ Internet),905f84ab-ce95-11eb-8886-7c67a234f601
+46,item3,Consulting,905f84ab-ce95-11eb-8886-7c67a234f601
+47,item8,Retail/ E-Commerce,905f84ab-ce95-11eb-8886-7c67a234f601
+48,item6,Technology (Software/ Internet),905f84ac-ce95-11eb-bf5f-7c67a234f601
+49,item2,Healthcare,905f84ac-ce95-11eb-bf5f-7c67a234f601
+50,item1,Finance,905f84ac-ce95-11eb-bf5f-7c67a234f601
+51,item6,Technology (Software/ Internet),905fab9d-ce95-11eb-a1ed-7c67a234f601
+52,item4,Public Sector/ Non-Profit Agencies,905fab9d-ce95-11eb-a1ed-7c67a234f601
+53,item1,Finance,905fab9d-ce95-11eb-a1ed-7c67a234f601
+54,item3,Consulting,905fab9d-ce95-11eb-a1ed-7c67a234f601
+55,item7,Energy,905fab9d-ce95-11eb-a1ed-7c67a234f601
+56,item11,Insurance,905fab9d-ce95-11eb-a1ed-7c67a234f601
+57,item13,Communications,905fab9d-ce95-11eb-a1ed-7c67a234f601
+58,item5,Education,905fab9e-ce95-11eb-a53d-7c67a234f601
+59,item5,Education,905fd65b-ce95-11eb-b835-7c67a234f601
+60,item6,Technology (Software/ Internet),905fd65b-ce95-11eb-b835-7c67a234f601
+61,item12,Marketing,905fd65b-ce95-11eb-b835-7c67a234f601
+62,item13,Communications,905fd65b-ce95-11eb-b835-7c67a234f601
+63,item6,Technology (Software/ Internet),905ff97f-ce95-11eb-a994-7c67a234f601
+64,item6,Technology (Software/ Internet),905ff980-ce95-11eb-98b7-7c67a234f601
+65,item8,Retail/ E-Commerce,905ff980-ce95-11eb-98b7-7c67a234f601
+66,item1,Finance,905ff980-ce95-11eb-98b7-7c67a234f601
+67,item7,Energy,905ff980-ce95-11eb-98b7-7c67a234f601
+68,item11,Insurance,905ff980-ce95-11eb-98b7-7c67a234f601
+69,item5,Education,905ff980-ce95-11eb-98b7-7c67a234f601
+70,other,other,905ff980-ce95-11eb-98b7-7c67a234f601
+71,item2,Healthcare,90602078-ce95-11eb-bc1d-7c67a234f601
+72,item6,Technology (Software/ Internet),906036c8-ce95-11eb-8c78-7c67a234f601
+73,item6,Technology (Software/ Internet),9060477c-ce95-11eb-ace3-7c67a234f601
+74,item10,Transportation,9060477c-ce95-11eb-ace3-7c67a234f601
+75,item6,Technology (Software/ Internet),9060477d-ce95-11eb-ab2e-7c67a234f601
+76,item8,Retail/ E-Commerce,9060477d-ce95-11eb-ab2e-7c67a234f601
+77,item12,Marketing,9060477d-ce95-11eb-ab2e-7c67a234f601
+78,item6,Technology (Software/ Internet),9060617e-ce95-11eb-bd26-7c67a234f601
+79,item5,Education,9060617e-ce95-11eb-bd26-7c67a234f601
+80,item2,Healthcare,906073cb-ce95-11eb-acb0-7c67a234f601
+81,item12,Marketing,906073cb-ce95-11eb-acb0-7c67a234f601
+82,other,other,906073cb-ce95-11eb-acb0-7c67a234f601
+83,item10,Transportation,906073cb-ce95-11eb-acb0-7c67a234f601
+84,item4,Public Sector/ Non-Profit Agencies,906073cb-ce95-11eb-acb0-7c67a234f601
+85,item6,Technology (Software/ Internet),906073cc-ce95-11eb-aac4-7c67a234f601
+86,item13,Communications,906073cc-ce95-11eb-aac4-7c67a234f601
+87,item5,Education,906073cc-ce95-11eb-aac4-7c67a234f601
+88,item2,Healthcare,906073cc-ce95-11eb-aac4-7c67a234f601
+89,item12,Marketing,906073cc-ce95-11eb-aac4-7c67a234f601
+90,item6,Technology (Software/ Internet),90609554-ce95-11eb-a24a-7c67a234f601
+91,item13,Communications,90609554-ce95-11eb-a24a-7c67a234f601
+92,item5,Education,90609555-ce95-11eb-b61a-7c67a234f601
+93,item13,Communications,90609555-ce95-11eb-b61a-7c67a234f601
+94,item13,Communications,9060c2e6-ce95-11eb-b8b8-7c67a234f601
+95,item12,Marketing,9060c2e6-ce95-11eb-b8b8-7c67a234f601
+96,item3,Consulting,9060c2e6-ce95-11eb-b8b8-7c67a234f601
+97,item2,Healthcare,9060c2e6-ce95-11eb-b8b8-7c67a234f601
+98,item8,Retail/ E-Commerce,9060c2e6-ce95-11eb-b8b8-7c67a234f601
+99,item8,Retail/ E-Commerce,9060cbb2-ce95-11eb-bac1-7c67a234f601
+100,item1,Finance,9060cbb2-ce95-11eb-bac1-7c67a234f601
+101,item3,Consulting,9060cbb2-ce95-11eb-bac1-7c67a234f601
+102,item5,Education,9060cbb2-ce95-11eb-bac1-7c67a234f601
+103,item10,Transportation,9060cbb2-ce95-11eb-bac1-7c67a234f601
+104,item2,Healthcare,9060e347-ce95-11eb-abbb-7c67a234f601
+105,other,other,9060e347-ce95-11eb-abbb-7c67a234f601
+106,item1,Finance,90610a3c-ce95-11eb-a50e-7c67a234f601
+107,item5,Education,90610a3c-ce95-11eb-a50e-7c67a234f601
+108,item12,Marketing,90610a3c-ce95-11eb-a50e-7c67a234f601
+109,item13,Communications,90610a3c-ce95-11eb-a50e-7c67a234f601
+110,item11,Insurance,90610a3c-ce95-11eb-a50e-7c67a234f601
+111,item8,Retail/ E-Commerce,90610a3c-ce95-11eb-a50e-7c67a234f601
+112,item3,Consulting,90611cd3-ce95-11eb-bebc-7c67a234f601
+113,item1,Finance,90611cd3-ce95-11eb-bebc-7c67a234f601
+114,item6,Technology (Software/ Internet),90611cd3-ce95-11eb-bebc-7c67a234f601
+115,item12,Marketing,90611cd3-ce95-11eb-bebc-7c67a234f601
+116,item8,Retail/ E-Commerce,90611cd3-ce95-11eb-bebc-7c67a234f601
+117,item1,Finance,9061312a-ce95-11eb-ba28-7c67a234f601
+118,item2,Healthcare,9061312a-ce95-11eb-ba28-7c67a234f601
+119,item3,Consulting,9061312a-ce95-11eb-ba28-7c67a234f601
+120,item4,Public Sector/ Non-Profit Agencies,9061312a-ce95-11eb-ba28-7c67a234f601
+121,item5,Education,9061312a-ce95-11eb-ba28-7c67a234f601
+122,item6,Technology (Software/ Internet),9061312a-ce95-11eb-ba28-7c67a234f601
+123,item7,Energy,9061312a-ce95-11eb-ba28-7c67a234f601
+124,item8,Retail/ E-Commerce,9061312a-ce95-11eb-ba28-7c67a234f601
+125,item10,Transportation,9061312a-ce95-11eb-ba28-7c67a234f601
+126,item11,Insurance,9061312a-ce95-11eb-ba28-7c67a234f601
+127,item12,Marketing,9061312a-ce95-11eb-ba28-7c67a234f601
+128,item13,Communications,9061312a-ce95-11eb-ba28-7c67a234f601
+129,item2,Healthcare,90614c17-ce95-11eb-b604-7c67a234f601
+130,item6,Technology (Software/ Internet),90614c17-ce95-11eb-b604-7c67a234f601
+131,item12,Marketing,90614c17-ce95-11eb-b604-7c67a234f601
+132,item1,Finance,9061581f-ce95-11eb-af12-7c67a234f601
+133,item3,Consulting,9061581f-ce95-11eb-af12-7c67a234f601
+134,item5,Education,9061581f-ce95-11eb-af12-7c67a234f601
+135,item6,Technology (Software/ Internet),9061581f-ce95-11eb-af12-7c67a234f601
+136,item8,Retail/ E-Commerce,9061581f-ce95-11eb-af12-7c67a234f601
+137,item13,Communications,9061581f-ce95-11eb-af12-7c67a234f601
+138,item7,Energy,9061581f-ce95-11eb-af12-7c67a234f601
+139,item11,Insurance,9061581f-ce95-11eb-af12-7c67a234f601
+140,item5,Education,90615820-ce95-11eb-9088-7c67a234f601
+141,item13,Communications,90615820-ce95-11eb-9088-7c67a234f601
+142,item12,Marketing,90615820-ce95-11eb-9088-7c67a234f601
+143,item6,Technology (Software/ Internet),90615820-ce95-11eb-9088-7c67a234f601
+144,item4,Public Sector/ Non-Profit Agencies,90615820-ce95-11eb-9088-7c67a234f601
+145,item8,Retail/ E-Commerce,90615820-ce95-11eb-9088-7c67a234f601
+146,item6,Technology (Software/ Internet),906178f8-ce95-11eb-95e9-7c67a234f601
+147,item1,Finance,90617f12-ce95-11eb-a3c8-7c67a234f601
+148,item6,Technology (Software/ Internet),90617f12-ce95-11eb-a3c8-7c67a234f601
+149,item4,Public Sector/ Non-Profit Agencies,90617f12-ce95-11eb-a3c8-7c67a234f601
+150,item8,Retail/ E-Commerce,90617f12-ce95-11eb-a3c8-7c67a234f601
+151,item13,Communications,90617f13-ce95-11eb-bc4e-7c67a234f601
+152,item6,Technology (Software/ Internet),90617f13-ce95-11eb-bc4e-7c67a234f601
+153,item8,Retail/ E-Commerce,90617f13-ce95-11eb-bc4e-7c67a234f601
+154,item4,Public Sector/ Non-Profit Agencies,90617f13-ce95-11eb-bc4e-7c67a234f601
+155,item5,Education,90617f13-ce95-11eb-bc4e-7c67a234f601
+156,item1,Finance,9061a61c-ce95-11eb-ba30-7c67a234f601
+157,item5,Education,9061a61c-ce95-11eb-ba30-7c67a234f601
+158,item6,Technology (Software/ Internet),9061a61c-ce95-11eb-ba30-7c67a234f601
+159,item8,Retail/ E-Commerce,9061a61c-ce95-11eb-ba30-7c67a234f601
+160,item12,Marketing,9061a61c-ce95-11eb-ba30-7c67a234f601
+161,item13,Communications,9061a61c-ce95-11eb-ba30-7c67a234f601
+162,item9,Manufacturing,9061a61c-ce95-11eb-ba30-7c67a234f601
+163,item10,Transportation,9061a61c-ce95-11eb-ba30-7c67a234f601
+164,item1,Finance,9061a61d-ce95-11eb-a939-7c67a234f601
+165,item3,Consulting,9061a61d-ce95-11eb-a939-7c67a234f601
+166,item8,Retail/ E-Commerce,9061a61d-ce95-11eb-a939-7c67a234f601
+167,item12,Marketing,9061a61d-ce95-11eb-a939-7c67a234f601
+168,item13,Communications,9061a61d-ce95-11eb-a939-7c67a234f601
+169,item11,Insurance,9061a61d-ce95-11eb-a939-7c67a234f601
+170,item1,Finance,9061d752-ce95-11eb-afc7-7c67a234f601
+171,item6,Technology (Software/ Internet),9061d752-ce95-11eb-afc7-7c67a234f601
+172,item11,Insurance,9061d752-ce95-11eb-afc7-7c67a234f601
+173,item3,Consulting,9061d752-ce95-11eb-afc7-7c67a234f601
+174,item7,Energy,9061d752-ce95-11eb-afc7-7c67a234f601
+175,item4,Public Sector/ Non-Profit Agencies,9061d752-ce95-11eb-afc7-7c67a234f601
+176,item1,Finance,9061d753-ce95-11eb-967a-7c67a234f601
+177,item6,Technology (Software/ Internet),9061d753-ce95-11eb-967a-7c67a234f601
+178,item12,Marketing,9061d753-ce95-11eb-967a-7c67a234f601
+179,item13,Communications,9061d753-ce95-11eb-967a-7c67a234f601
+180,item8,Retail/ E-Commerce,9061d753-ce95-11eb-967a-7c67a234f601
+181,item3,Consulting,9061d753-ce95-11eb-967a-7c67a234f601
+182,item2,Healthcare,9061d754-ce95-11eb-a086-7c67a234f601
+183,item6,Technology (Software/ Internet),9061d754-ce95-11eb-a086-7c67a234f601
+184,item8,Retail/ E-Commerce,9061d754-ce95-11eb-a086-7c67a234f601
+185,item13,Communications,9061d754-ce95-11eb-a086-7c67a234f601
+186,item7,Energy,9061d754-ce95-11eb-a086-7c67a234f601
+187,item12,Marketing,9061f3ee-ce95-11eb-a9d9-7c67a234f601
+188,item6,Technology (Software/ Internet),9061f3ee-ce95-11eb-a9d9-7c67a234f601
+189,item8,Retail/ E-Commerce,9061f3ee-ce95-11eb-a9d9-7c67a234f601
+190,item6,Technology (Software/ Internet),90620452-ce95-11eb-9ec8-7c67a234f601
+191,item13,Communications,90620452-ce95-11eb-9ec8-7c67a234f601
+192,item12,Marketing,90620452-ce95-11eb-9ec8-7c67a234f601
+193,item8,Retail/ E-Commerce,90620452-ce95-11eb-9ec8-7c67a234f601
+194,item5,Education,90620452-ce95-11eb-9ec8-7c67a234f601
+195,item7,Energy,90620452-ce95-11eb-9ec8-7c67a234f601
+196,item8,Retail/ E-Commerce,90620453-ce95-11eb-bb57-7c67a234f601
+197,item4,Public Sector/ Non-Profit Agencies,90620453-ce95-11eb-bb57-7c67a234f601
+198,item3,Consulting,90620453-ce95-11eb-bb57-7c67a234f601
+199,item1,Finance,90620453-ce95-11eb-bb57-7c67a234f601
+200,item12,Marketing,90620453-ce95-11eb-bb57-7c67a234f601
+201,item6,Technology (Software/ Internet),90621ae1-ce95-11eb-8a7d-7c67a234f601
+202,item1,Finance,90621ae1-ce95-11eb-8a7d-7c67a234f601
+203,item3,Consulting,90621ae1-ce95-11eb-8a7d-7c67a234f601
+204,item4,Public Sector/ Non-Profit Agencies,90621ae1-ce95-11eb-8a7d-7c67a234f601
+205,item5,Education,90621ae1-ce95-11eb-8a7d-7c67a234f601
+206,item13,Communications,90621ae1-ce95-11eb-8a7d-7c67a234f601
+207,item13,Communications,90622d22-ce95-11eb-a50b-7c67a234f601
+208,item7,Energy,90622d22-ce95-11eb-a50b-7c67a234f601
+209,item6,Technology (Software/ Internet),90622d22-ce95-11eb-a50b-7c67a234f601
+210,item5,Education,90622d22-ce95-11eb-a50b-7c67a234f601
+211,item12,Marketing,90622d22-ce95-11eb-a50b-7c67a234f601
+212,item8,Retail/ E-Commerce,90622d22-ce95-11eb-a50b-7c67a234f601
+213,item4,Public Sector/ Non-Profit Agencies,90622d22-ce95-11eb-a50b-7c67a234f601
+214,item1,Finance,90622d23-ce95-11eb-8598-7c67a234f601
+215,item6,Technology (Software/ Internet),90622d23-ce95-11eb-8598-7c67a234f601
+216,item13,Communications,90622d23-ce95-11eb-8598-7c67a234f601
+217,item12,Marketing,90622d23-ce95-11eb-8598-7c67a234f601
+218,item8,Retail/ E-Commerce,90622d23-ce95-11eb-8598-7c67a234f601
+219,item6,Technology (Software/ Internet),906241d4-ce95-11eb-a1eb-7c67a234f601
+220,item4,Public Sector/ Non-Profit Agencies,906241d4-ce95-11eb-a1eb-7c67a234f601
+221,item3,Consulting,906241d4-ce95-11eb-a1eb-7c67a234f601
+222,item6,Technology (Software/ Internet),906241d5-ce95-11eb-9850-7c67a234f601
+223,item8,Retail/ E-Commerce,90625b11-ce95-11eb-b351-7c67a234f601
+224,item5,Education,90625b11-ce95-11eb-b351-7c67a234f601
+225,item12,Marketing,90625b11-ce95-11eb-b351-7c67a234f601
+226,item1,Finance,90626928-ce95-11eb-8f5e-7c67a234f601
+227,item3,Consulting,90626928-ce95-11eb-8f5e-7c67a234f601
+228,item11,Insurance,90626928-ce95-11eb-8f5e-7c67a234f601
+229,item8,Retail/ E-Commerce,90626928-ce95-11eb-8f5e-7c67a234f601
+230,item6,Technology (Software/ Internet),90626929-ce95-11eb-86fe-7c67a234f601
+231,item13,Communications,90626929-ce95-11eb-86fe-7c67a234f601
+232,item8,Retail/ E-Commerce,90626929-ce95-11eb-86fe-7c67a234f601
+233,item5,Education,90626929-ce95-11eb-86fe-7c67a234f601
+234,item4,Public Sector/ Non-Profit Agencies,90626929-ce95-11eb-86fe-7c67a234f601
+235,item2,Healthcare,90626929-ce95-11eb-86fe-7c67a234f601
+236,item1,Finance,90626929-ce95-11eb-86fe-7c67a234f601
+237,item6,Technology (Software/ Internet),9062692a-ce95-11eb-8ab8-7c67a234f601
+238,item1,Finance,90628a02-ce95-11eb-9291-7c67a234f601
+239,item12,Marketing,90628a02-ce95-11eb-9291-7c67a234f601
+240,item13,Communications,90628a02-ce95-11eb-9291-7c67a234f601
+241,item5,Education,90628fbe-ce95-11eb-bb9e-7c67a234f601
+242,item13,Communications,90628fbe-ce95-11eb-bb9e-7c67a234f601
+243,item6,Technology (Software/ Internet),90628fbe-ce95-11eb-bb9e-7c67a234f601
+244,item3,Consulting,90628fbf-ce95-11eb-819c-7c67a234f601
+245,item11,Insurance,90628fbf-ce95-11eb-819c-7c67a234f601
+246,item1,Finance,90628fbf-ce95-11eb-819c-7c67a234f601
+247,item1,Finance,90628fc0-ce95-11eb-8dae-7c67a234f601
+248,item3,Consulting,90628fc0-ce95-11eb-8dae-7c67a234f601
+249,item6,Technology (Software/ Internet),90628fc0-ce95-11eb-8dae-7c67a234f601
+250,item8,Retail/ E-Commerce,90628fc0-ce95-11eb-8dae-7c67a234f601
+251,item12,Marketing,90628fc0-ce95-11eb-8dae-7c67a234f601
+252,item13,Communications,90628fc0-ce95-11eb-8dae-7c67a234f601
+253,item2,Healthcare,9062b753-ce95-11eb-8959-7c67a234f601
+254,item8,Retail/ E-Commerce,9062b753-ce95-11eb-8959-7c67a234f601
+255,item4,Public Sector/ Non-Profit Agencies,9062b753-ce95-11eb-8959-7c67a234f601
+256,item12,Marketing,9062b754-ce95-11eb-b31e-7c67a234f601
+257,item12,Marketing,9062b755-ce95-11eb-85a2-7c67a234f601
+258,item4,Public Sector/ Non-Profit Agencies,9062b755-ce95-11eb-85a2-7c67a234f601
+259,item1,Finance,9062b755-ce95-11eb-85a2-7c67a234f601
+260,item6,Technology (Software/ Internet),9062b755-ce95-11eb-85a2-7c67a234f601
+261,item1,Finance,9062ddb1-ce95-11eb-bd2f-7c67a234f601
+262,item12,Marketing,9062ddb1-ce95-11eb-bd2f-7c67a234f601
+263,item8,Retail/ E-Commerce,9062ddb1-ce95-11eb-bd2f-7c67a234f601
+264,item11,Insurance,9062ddb1-ce95-11eb-bd2f-7c67a234f601
+265,item6,Technology (Software/ Internet),9062ddb2-ce95-11eb-89d0-7c67a234f601
+266,item12,Marketing,9062ddb3-ce95-11eb-acc8-7c67a234f601
+267,item13,Communications,9062ddb3-ce95-11eb-acc8-7c67a234f601
+268,item1,Finance,9062ddb3-ce95-11eb-acc8-7c67a234f601
+269,item1,Finance,906304a6-ce95-11eb-b475-7c67a234f601
+270,item6,Technology (Software/ Internet),906304a7-ce95-11eb-b805-7c67a234f601
+271,item4,Public Sector/ Non-Profit Agencies,906304a7-ce95-11eb-b805-7c67a234f601
+272,item1,Finance,906304a7-ce95-11eb-b805-7c67a234f601
+273,item2,Healthcare,906304a7-ce95-11eb-b805-7c67a234f601
+274,item8,Retail/ E-Commerce,906304a7-ce95-11eb-b805-7c67a234f601
+275,item13,Communications,906304a7-ce95-11eb-b805-7c67a234f601
+276,item9,Manufacturing,906304a7-ce95-11eb-b805-7c67a234f601
+277,item7,Energy,906304a7-ce95-11eb-b805-7c67a234f601
+278,item12,Marketing,906304a7-ce95-11eb-b805-7c67a234f601
+279,item13,Communications,90632b9f-ce95-11eb-bb7f-7c67a234f601
+280,item4,Public Sector/ Non-Profit Agencies,90632b9f-ce95-11eb-bb7f-7c67a234f601
+281,item3,Consulting,90632b9f-ce95-11eb-bb7f-7c67a234f601
+282,item6,Technology (Software/ Internet),90632ba0-ce95-11eb-b7c2-7c67a234f601
+283,item6,Technology (Software/ Internet),9063799a-ce95-11eb-b32b-7c67a234f601
+284,item6,Technology (Software/ Internet),9063a260-ce95-11eb-87e8-7c67a234f601
+285,item8,Retail/ E-Commerce,9063a260-ce95-11eb-87e8-7c67a234f601
+286,item3,Consulting,9063a260-ce95-11eb-87e8-7c67a234f601
+287,item1,Finance,9063c77d-ce95-11eb-a120-7c67a234f601
+288,item8,Retail/ E-Commerce,9063c77d-ce95-11eb-a120-7c67a234f601
+289,item9,Manufacturing,9063c77d-ce95-11eb-a120-7c67a234f601
+290,other,other,9063c77e-ce95-11eb-81b3-7c67a234f601
+291,item3,Consulting,9063c77e-ce95-11eb-81b3-7c67a234f601
+292,item1,Finance,9063c77e-ce95-11eb-81b3-7c67a234f601
+293,item6,Technology (Software/ Internet),9063ee76-ce95-11eb-a84b-7c67a234f601
+294,item8,Retail/ E-Commerce,9063ee76-ce95-11eb-a84b-7c67a234f601
+295,item8,Retail/ E-Commerce,9063ee77-ce95-11eb-9098-7c67a234f601
+296,item12,Marketing,9063ee77-ce95-11eb-9098-7c67a234f601
+297,item6,Technology (Software/ Internet),9063ee77-ce95-11eb-9098-7c67a234f601
+298,item8,Retail/ E-Commerce,9063ee78-ce95-11eb-a8d6-7c67a234f601
+299,item6,Technology (Software/ Internet),9063ee78-ce95-11eb-a8d6-7c67a234f601
+300,item12,Marketing,9063ee78-ce95-11eb-a8d6-7c67a234f601
+301,item1,Finance,9063ee78-ce95-11eb-a8d6-7c67a234f601
+302,item6,Technology (Software/ Internet),90642613-ce95-11eb-8b26-7c67a234f601
+303,item13,Communications,90642613-ce95-11eb-8b26-7c67a234f601
+304,item12,Marketing,90642613-ce95-11eb-8b26-7c67a234f601
+305,item6,Technology (Software/ Internet),90642614-ce95-11eb-8db0-7c67a234f601
+306,item13,Communications,90642614-ce95-11eb-8db0-7c67a234f601
+307,item12,Marketing,90642614-ce95-11eb-8db0-7c67a234f601
+308,item1,Finance,90642614-ce95-11eb-8db0-7c67a234f601
+309,item3,Consulting,90642614-ce95-11eb-8db0-7c67a234f601
+310,item6,Technology (Software/ Internet),90643c59-ce95-11eb-aec2-7c67a234f601
+311,item13,Communications,90643c59-ce95-11eb-aec2-7c67a234f601
+312,item6,Technology (Software/ Internet),90643c5a-ce95-11eb-b510-7c67a234f601
+313,item12,Marketing,90643c5a-ce95-11eb-b510-7c67a234f601
+314,item13,Communications,90646353-ce95-11eb-9f27-7c67a234f601
+315,item12,Marketing,90646353-ce95-11eb-9f27-7c67a234f601
+316,item3,Consulting,90646353-ce95-11eb-9f27-7c67a234f601
+317,item1,Finance,90646354-ce95-11eb-a5c9-7c67a234f601
+318,item6,Technology (Software/ Internet),90646354-ce95-11eb-a5c9-7c67a234f601
+319,item7,Energy,90646354-ce95-11eb-a5c9-7c67a234f601
+320,item12,Marketing,90646354-ce95-11eb-a5c9-7c67a234f601
+321,item10,Transportation,90646354-ce95-11eb-a5c9-7c67a234f601
+322,item8,Retail/ E-Commerce,90646354-ce95-11eb-a5c9-7c67a234f601
+323,item3,Consulting,90646355-ce95-11eb-ae9f-7c67a234f601
+324,item1,Finance,9064923a-ce95-11eb-a2ad-7c67a234f601
+325,item4,Public Sector/ Non-Profit Agencies,9064923a-ce95-11eb-a2ad-7c67a234f601
+326,item12,Marketing,9064923a-ce95-11eb-a2ad-7c67a234f601
+327,item5,Education,9064923b-ce95-11eb-a771-7c67a234f601
+328,item7,Energy,9064923b-ce95-11eb-a771-7c67a234f601
+329,item1,Finance,9064b6be-ce95-11eb-b2ac-7c67a234f601
+330,item6,Technology (Software/ Internet),9064b6be-ce95-11eb-b2ac-7c67a234f601
+331,item12,Marketing,9064b6be-ce95-11eb-b2ac-7c67a234f601
+332,item3,Consulting,9064b6be-ce95-11eb-b2ac-7c67a234f601
+333,other,other,9064b6be-ce95-11eb-b2ac-7c67a234f601
+334,item13,Communications,9064c427-ce95-11eb-9d48-7c67a234f601
+335,item5,Education,9064c427-ce95-11eb-9d48-7c67a234f601
+336,item6,Technology (Software/ Internet),9064c427-ce95-11eb-9d48-7c67a234f601
+337,item1,Finance,9064c428-ce95-11eb-a021-7c67a234f601
+338,item2,Healthcare,9064c428-ce95-11eb-a021-7c67a234f601
+339,item6,Technology (Software/ Internet),9064c428-ce95-11eb-a021-7c67a234f601
+340,item8,Retail/ E-Commerce,9064c428-ce95-11eb-a021-7c67a234f601
+341,item11,Insurance,9064c428-ce95-11eb-a021-7c67a234f601
+342,item7,Energy,9064c428-ce95-11eb-a021-7c67a234f601
+343,item3,Consulting,9064c428-ce95-11eb-a021-7c67a234f601
+344,item10,Transportation,9064c428-ce95-11eb-a021-7c67a234f601
+345,item3,Consulting,9064d839-ce95-11eb-8172-7c67a234f601
+346,item6,Technology (Software/ Internet),9064d83a-ce95-11eb-9bef-7c67a234f601
+347,item5,Education,9064d83a-ce95-11eb-9bef-7c67a234f601
+348,item6,Technology (Software/ Internet),9064d83b-ce95-11eb-a034-7c67a234f601
+349,item9,Manufacturing,9064d83b-ce95-11eb-a034-7c67a234f601
+350,item1,Finance,9064d83b-ce95-11eb-a034-7c67a234f601
+351,item1,Finance,9064d83c-ce95-11eb-bc96-7c67a234f601
+352,item3,Consulting,9064d83c-ce95-11eb-bc96-7c67a234f601
+353,item12,Marketing,9064d83c-ce95-11eb-bc96-7c67a234f601
+354,item10,Transportation,9064d83c-ce95-11eb-bc96-7c67a234f601
+355,item9,Manufacturing,9064d83c-ce95-11eb-bc96-7c67a234f601
+356,item6,Technology (Software/ Internet),9064d83c-ce95-11eb-bc96-7c67a234f601
+357,item1,Finance,9064ff26-ce95-11eb-8428-7c67a234f601
+358,item12,Marketing,9064ff26-ce95-11eb-8428-7c67a234f601
+359,item13,Communications,9064ff26-ce95-11eb-8428-7c67a234f601
+360,item6,Technology (Software/ Internet),9064ff26-ce95-11eb-8428-7c67a234f601
+361,item3,Consulting,9064ff26-ce95-11eb-8428-7c67a234f601
+362,item5,Education,9064ff26-ce95-11eb-8428-7c67a234f601
+363,item11,Insurance,9064ff26-ce95-11eb-8428-7c67a234f601
+364,item2,Healthcare,9064ff27-ce95-11eb-aaa6-7c67a234f601
+365,item3,Consulting,9064ff27-ce95-11eb-aaa6-7c67a234f601
+366,item1,Finance,9064ff27-ce95-11eb-aaa6-7c67a234f601
+367,item8,Retail/ E-Commerce,9064ff27-ce95-11eb-aaa6-7c67a234f601
+368,item9,Manufacturing,9064ff27-ce95-11eb-aaa6-7c67a234f601
+369,item12,Marketing,9064ff27-ce95-11eb-aaa6-7c67a234f601
+370,item10,Transportation,9064ff27-ce95-11eb-aaa6-7c67a234f601
+371,item11,Insurance,9064ff27-ce95-11eb-aaa6-7c67a234f601
+372,item5,Education,9064ff27-ce95-11eb-aaa6-7c67a234f601
+373,item6,Technology (Software/ Internet),9064ff28-ce95-11eb-857f-7c67a234f601
+374,item12,Marketing,9064ff28-ce95-11eb-857f-7c67a234f601
+375,item11,Insurance,9064ff28-ce95-11eb-857f-7c67a234f601
+376,item1,Finance,9064ff28-ce95-11eb-857f-7c67a234f601
+377,item2,Healthcare,9064ff28-ce95-11eb-857f-7c67a234f601
+378,item3,Consulting,9064ff28-ce95-11eb-857f-7c67a234f601
+379,item4,Public Sector/ Non-Profit Agencies,9064ff28-ce95-11eb-857f-7c67a234f601
+380,item6,Technology (Software/ Internet),9064ff29-ce95-11eb-a3d3-7c67a234f601
+381,item4,Public Sector/ Non-Profit Agencies,9064ff2a-ce95-11eb-8430-7c67a234f601
+382,item4,Public Sector/ Non-Profit Agencies,90652a93-ce95-11eb-a8af-7c67a234f601
+383,item6,Technology (Software/ Internet),90652a93-ce95-11eb-a8af-7c67a234f601
+384,item7,Energy,90652a93-ce95-11eb-a8af-7c67a234f601
+385,item12,Marketing,90652a93-ce95-11eb-a8af-7c67a234f601
+386,item13,Communications,90652a93-ce95-11eb-a8af-7c67a234f601
+387,item1,Finance,90652a93-ce95-11eb-a8af-7c67a234f601
+388,item1,Finance,90652a94-ce95-11eb-892d-7c67a234f601
+389,item2,Healthcare,90652a94-ce95-11eb-892d-7c67a234f601
+390,item3,Consulting,90652a94-ce95-11eb-892d-7c67a234f601
+391,item4,Public Sector/ Non-Profit Agencies,90652a94-ce95-11eb-892d-7c67a234f601
+392,item5,Education,90652a94-ce95-11eb-892d-7c67a234f601
+393,item12,Marketing,90652a94-ce95-11eb-892d-7c67a234f601
+394,item13,Communications,90652a94-ce95-11eb-892d-7c67a234f601
+395,item11,Insurance,90652a94-ce95-11eb-892d-7c67a234f601
+396,item5,Education,90652a95-ce95-11eb-8845-7c67a234f601
+397,item6,Technology (Software/ Internet),90652a95-ce95-11eb-8845-7c67a234f601
+398,item4,Public Sector/ Non-Profit Agencies,90652a95-ce95-11eb-8845-7c67a234f601
+399,item8,Retail/ E-Commerce,90652a95-ce95-11eb-8845-7c67a234f601
+400,item7,Energy,90652a95-ce95-11eb-8845-7c67a234f601
+401,item10,Transportation,90652a95-ce95-11eb-8845-7c67a234f601
+402,item13,Communications,90652a95-ce95-11eb-8845-7c67a234f601
+403,item3,Consulting,90652a96-ce95-11eb-97b2-7c67a234f601
+404,item6,Technology (Software/ Internet),90652a96-ce95-11eb-97b2-7c67a234f601
+405,item4,Public Sector/ Non-Profit Agencies,90652a96-ce95-11eb-97b2-7c67a234f601
+406,item1,Finance,90652a96-ce95-11eb-97b2-7c67a234f601
+407,item2,Healthcare,90652a96-ce95-11eb-97b2-7c67a234f601
+408,item6,Technology (Software/ Internet),90652a97-ce95-11eb-856d-7c67a234f601
+409,item8,Retail/ E-Commerce,906555be-ce95-11eb-9d03-7c67a234f601
+410,item6,Technology (Software/ Internet),906555bf-ce95-11eb-92ac-7c67a234f601
+411,item12,Marketing,906555bf-ce95-11eb-92ac-7c67a234f601
+412,item6,Technology (Software/ Internet),906555c0-ce95-11eb-a091-7c67a234f601
+413,item6,Technology (Software/ Internet),906555c1-ce95-11eb-95e0-7c67a234f601
+414,item8,Retail/ E-Commerce,906555c1-ce95-11eb-95e0-7c67a234f601
+415,item1,Finance,9065740c-ce95-11eb-968f-7c67a234f601
+416,item12,Marketing,9065740c-ce95-11eb-968f-7c67a234f601
+417,item6,Technology (Software/ Internet),9065740c-ce95-11eb-968f-7c67a234f601
+418,item3,Consulting,9065740c-ce95-11eb-968f-7c67a234f601
+419,item9,Manufacturing,90658229-ce95-11eb-ab19-7c67a234f601
+420,item7,Energy,90658229-ce95-11eb-ab19-7c67a234f601
+421,item8,Retail/ E-Commerce,90658229-ce95-11eb-ab19-7c67a234f601
+422,item10,Transportation,90658229-ce95-11eb-ab19-7c67a234f601
+423,item3,Consulting,90658229-ce95-11eb-ab19-7c67a234f601
+424,item6,Technology (Software/ Internet),90658229-ce95-11eb-ab19-7c67a234f601
+425,item6,Technology (Software/ Internet),9065822a-ce95-11eb-9df5-7c67a234f601
+426,item6,Technology (Software/ Internet),9065822b-ce95-11eb-a3e6-7c67a234f601
+427,item1,Finance,9065822b-ce95-11eb-a3e6-7c67a234f601
+428,item3,Consulting,9065822b-ce95-11eb-a3e6-7c67a234f601
+429,item1,Finance,90659aff-ce95-11eb-bcbe-7c67a234f601
+430,item6,Technology (Software/ Internet),90659aff-ce95-11eb-bcbe-7c67a234f601
+431,item8,Retail/ E-Commerce,90659aff-ce95-11eb-bcbe-7c67a234f601
+432,item12,Marketing,90659aff-ce95-11eb-bcbe-7c67a234f601
+433,item1,Finance,90659b00-ce95-11eb-9e8f-7c67a234f601
+434,item6,Technology (Software/ Internet),90659b00-ce95-11eb-9e8f-7c67a234f601
+435,item12,Marketing,90659b00-ce95-11eb-9e8f-7c67a234f601
+436,item3,Consulting,90659b00-ce95-11eb-9e8f-7c67a234f601
+437,item6,Technology (Software/ Internet),90659b01-ce95-11eb-b7ea-7c67a234f601
+438,item3,Consulting,90659b01-ce95-11eb-b7ea-7c67a234f601
+439,item5,Education,90659b01-ce95-11eb-b7ea-7c67a234f601
+440,item2,Healthcare,90659b02-ce95-11eb-a379-7c67a234f601
+441,item6,Technology (Software/ Internet),9065cffb-ce95-11eb-b326-7c67a234f601
+442,item8,Retail/ E-Commerce,9065cffb-ce95-11eb-b326-7c67a234f601
+443,item1,Finance,9065cffb-ce95-11eb-b326-7c67a234f601
+444,item1,Finance,9065e939-ce95-11eb-9702-7c67a234f601
+445,item9,Manufacturing,9065e939-ce95-11eb-9702-7c67a234f601
+446,item6,Technology (Software/ Internet),9065e939-ce95-11eb-9702-7c67a234f601
+447,item4,Public Sector/ Non-Profit Agencies,9065e939-ce95-11eb-9702-7c67a234f601
+448,item7,Energy,9065e939-ce95-11eb-9702-7c67a234f601
+449,item4,Public Sector/ Non-Profit Agencies,9065e93a-ce95-11eb-887d-7c67a234f601
+450,item13,Communications,9065e93a-ce95-11eb-887d-7c67a234f601
+451,item6,Technology (Software/ Internet),9065e93a-ce95-11eb-887d-7c67a234f601
+452,item6,Technology (Software/ Internet),90660fe1-ce95-11eb-a30e-7c67a234f601
+453,item12,Marketing,90660fe1-ce95-11eb-a30e-7c67a234f601
+454,item3,Consulting,90660fe1-ce95-11eb-a30e-7c67a234f601
+455,item5,Education,90660fe1-ce95-11eb-a30e-7c67a234f601
+456,item8,Retail/ E-Commerce,90660fe2-ce95-11eb-a2b5-7c67a234f601
+457,item5,Education,90660fe2-ce95-11eb-a2b5-7c67a234f601
+458,item6,Technology (Software/ Internet),90660fe3-ce95-11eb-8747-7c67a234f601
+459,item1,Finance,906636ce-ce95-11eb-ba43-7c67a234f601
+460,item8,Retail/ E-Commerce,906636ce-ce95-11eb-ba43-7c67a234f601
+461,item1,Finance,906636cf-ce95-11eb-8679-7c67a234f601
+462,item3,Consulting,906636cf-ce95-11eb-8679-7c67a234f601
+463,item4,Public Sector/ Non-Profit Agencies,906636cf-ce95-11eb-8679-7c67a234f601
+464,item12,Marketing,906636cf-ce95-11eb-8679-7c67a234f601
+465,item8,Retail/ E-Commerce,906636cf-ce95-11eb-8679-7c67a234f601
+466,item6,Technology (Software/ Internet),906636cf-ce95-11eb-8679-7c67a234f601
+467,item6,Technology (Software/ Internet),906636d0-ce95-11eb-9875-7c67a234f601
+468,item5,Education,906636d0-ce95-11eb-9875-7c67a234f601
+469,item12,Marketing,906636d1-ce95-11eb-8379-7c67a234f601
+470,item13,Communications,906636d1-ce95-11eb-8379-7c67a234f601
+471,item5,Education,906636d1-ce95-11eb-8379-7c67a234f601
+472,item8,Retail/ E-Commerce,906636d1-ce95-11eb-8379-7c67a234f601
+473,item1,Finance,90665dbc-ce95-11eb-8162-7c67a234f601
+474,item1,Finance,90665dbd-ce95-11eb-bcc1-7c67a234f601
+475,item11,Insurance,90665dbd-ce95-11eb-bcc1-7c67a234f601
+476,item13,Communications,90665dbd-ce95-11eb-bcc1-7c67a234f601
+477,item6,Technology (Software/ Internet),90665dbd-ce95-11eb-bcc1-7c67a234f601
+478,item7,Energy,90665dbd-ce95-11eb-bcc1-7c67a234f601
+479,item12,Marketing,90665dbd-ce95-11eb-bcc1-7c67a234f601
+480,item6,Technology (Software/ Internet),90665dbe-ce95-11eb-b66a-7c67a234f601
+481,item6,Technology (Software/ Internet),90665dbf-ce95-11eb-a9b5-7c67a234f601
+482,item7,Energy,90665dbf-ce95-11eb-a9b5-7c67a234f601
+483,item1,Finance,90665dbf-ce95-11eb-a9b5-7c67a234f601
+484,item6,Technology (Software/ Internet),90665dc0-ce95-11eb-926f-7c67a234f601
+485,item5,Education,90665dc0-ce95-11eb-926f-7c67a234f601
+486,item8,Retail/ E-Commerce,90665dc0-ce95-11eb-926f-7c67a234f601
+487,item8,Retail/ E-Commerce,90668798-ce95-11eb-86fc-7c67a234f601
+488,item6,Technology (Software/ Internet),90668798-ce95-11eb-86fc-7c67a234f601
+489,item1,Finance,90668798-ce95-11eb-86fc-7c67a234f601
+490,item12,Marketing,90668798-ce95-11eb-86fc-7c67a234f601
+491,item13,Communications,90668798-ce95-11eb-86fc-7c67a234f601
+492,item6,Technology (Software/ Internet),90668799-ce95-11eb-b4ec-7c67a234f601
+493,item7,Energy,90668799-ce95-11eb-b4ec-7c67a234f601
+494,item1,Finance,9066879a-ce95-11eb-bafa-7c67a234f601
+495,item6,Technology (Software/ Internet),9066879b-ce95-11eb-9d4a-7c67a234f601
+496,item4,Public Sector/ Non-Profit Agencies,9066879b-ce95-11eb-9d4a-7c67a234f601
+497,item3,Consulting,9066879b-ce95-11eb-9d4a-7c67a234f601
+498,item13,Communications,9066879b-ce95-11eb-9d4a-7c67a234f601
+499,item1,Finance,9066abb5-ce95-11eb-aa16-7c67a234f601
+500,item2,Healthcare,9066abb5-ce95-11eb-aa16-7c67a234f601
+501,item11,Insurance,9066abb5-ce95-11eb-aa16-7c67a234f601
+502,other,other,9066abb5-ce95-11eb-aa16-7c67a234f601
+503,item6,Technology (Software/ Internet),9066abb6-ce95-11eb-b526-7c67a234f601
+504,item1,Finance,9066abb6-ce95-11eb-b526-7c67a234f601
+505,item3,Consulting,9066abb6-ce95-11eb-b526-7c67a234f601
+506,item8,Retail/ E-Commerce,9066abb6-ce95-11eb-b526-7c67a234f601
+507,item13,Communications,9066abb6-ce95-11eb-b526-7c67a234f601
+508,item2,Healthcare,9066abb7-ce95-11eb-846d-7c67a234f601
+509,item3,Consulting,9066abb8-ce95-11eb-b61d-7c67a234f601
+510,item4,Public Sector/ Non-Profit Agencies,9066abb8-ce95-11eb-b61d-7c67a234f601
+511,item1,Finance,9066abb9-ce95-11eb-af6a-7c67a234f601
+512,item6,Technology (Software/ Internet),9066abb9-ce95-11eb-af6a-7c67a234f601
+513,item8,Retail/ E-Commerce,9066abb9-ce95-11eb-af6a-7c67a234f601
+514,item12,Marketing,9066abb9-ce95-11eb-af6a-7c67a234f601
+515,item13,Communications,9066abb9-ce95-11eb-af6a-7c67a234f601
+516,item9,Manufacturing,9066abb9-ce95-11eb-af6a-7c67a234f601
+517,item11,Insurance,9066abb9-ce95-11eb-af6a-7c67a234f601
+518,item13,Communications,9066d2aa-ce95-11eb-b221-7c67a234f601
+519,item5,Education,9066d2aa-ce95-11eb-b221-7c67a234f601
+520,item1,Finance,9066d2ab-ce95-11eb-be67-7c67a234f601
+521,item6,Technology (Software/ Internet),9066d2ab-ce95-11eb-be67-7c67a234f601
+522,item8,Retail/ E-Commerce,9066d2ab-ce95-11eb-be67-7c67a234f601
+523,item6,Technology (Software/ Internet),9066d2ac-ce95-11eb-8752-7c67a234f601
+524,item6,Technology (Software/ Internet),9066d2ad-ce95-11eb-82c7-7c67a234f601
+525,item8,Retail/ E-Commerce,9066faad-ce95-11eb-a4b7-7c67a234f601
+526,item6,Technology (Software/ Internet),9066faad-ce95-11eb-a4b7-7c67a234f601
+527,item3,Consulting,9066faad-ce95-11eb-a4b7-7c67a234f601
+528,item12,Marketing,9066faad-ce95-11eb-a4b7-7c67a234f601
+529,item1,Finance,9066faad-ce95-11eb-a4b7-7c67a234f601
+530,item1,Finance,9066faae-ce95-11eb-9b99-7c67a234f601
+531,item2,Healthcare,9066faae-ce95-11eb-9b99-7c67a234f601
+532,item6,Technology (Software/ Internet),9066faae-ce95-11eb-9b99-7c67a234f601
+533,item11,Insurance,9066faae-ce95-11eb-9b99-7c67a234f601
+534,item6,Technology (Software/ Internet),9066faaf-ce95-11eb-beb4-7c67a234f601
+535,item1,Finance,9066fab0-ce95-11eb-ba75-7c67a234f601
+536,item5,Education,9066fab0-ce95-11eb-ba75-7c67a234f601
+537,item4,Public Sector/ Non-Profit Agencies,9066fab0-ce95-11eb-ba75-7c67a234f601
+538,item2,Healthcare,9066fab1-ce95-11eb-a4e2-7c67a234f601
+539,item6,Technology (Software/ Internet),9066fab1-ce95-11eb-a4e2-7c67a234f601
+540,item4,Public Sector/ Non-Profit Agencies,9066fab1-ce95-11eb-a4e2-7c67a234f601
+541,item8,Retail/ E-Commerce,9066fab1-ce95-11eb-a4e2-7c67a234f601
+542,item1,Finance,90672094-ce95-11eb-9bfe-7c67a234f601
+543,item12,Marketing,90672094-ce95-11eb-9bfe-7c67a234f601
+544,item4,Public Sector/ Non-Profit Agencies,90672094-ce95-11eb-9bfe-7c67a234f601
+545,item6,Technology (Software/ Internet),90672095-ce95-11eb-a84d-7c67a234f601
+546,item8,Retail/ E-Commerce,90672096-ce95-11eb-9663-7c67a234f601
+547,item6,Technology (Software/ Internet),90672096-ce95-11eb-9663-7c67a234f601
+548,item1,Finance,90672097-ce95-11eb-b73b-7c67a234f601
+549,item12,Marketing,90672097-ce95-11eb-b73b-7c67a234f601
+550,item3,Consulting,90672097-ce95-11eb-b73b-7c67a234f601
+551,item7,Energy,90674789-ce95-11eb-ac21-7c67a234f601
+552,item4,Public Sector/ Non-Profit Agencies,90674789-ce95-11eb-ac21-7c67a234f601
+553,item3,Consulting,90674789-ce95-11eb-ac21-7c67a234f601
+554,item5,Education,90674789-ce95-11eb-ac21-7c67a234f601
+555,item12,Marketing,90674789-ce95-11eb-ac21-7c67a234f601
+556,item13,Communications,90674789-ce95-11eb-ac21-7c67a234f601
+557,item8,Retail/ E-Commerce,9067478a-ce95-11eb-bc48-7c67a234f601
+558,item6,Technology (Software/ Internet),9067478b-ce95-11eb-aba9-7c67a234f601
+559,item8,Retail/ E-Commerce,9067478b-ce95-11eb-aba9-7c67a234f601
+560,item6,Technology (Software/ Internet),9067478c-ce95-11eb-94f6-7c67a234f601
+561,item6,Technology (Software/ Internet),90676757-ce95-11eb-85fc-7c67a234f601
+562,item1,Finance,90677020-ce95-11eb-a2f6-7c67a234f601
+563,item6,Technology (Software/ Internet),90677021-ce95-11eb-a3f5-7c67a234f601
+564,item1,Finance,90677021-ce95-11eb-a3f5-7c67a234f601
+565,item6,Technology (Software/ Internet),90677023-ce95-11eb-8bd4-7c67a234f601
+566,item6,Technology (Software/ Internet),9067957a-ce95-11eb-aff1-7c67a234f601
+567,item1,Finance,9067957a-ce95-11eb-aff1-7c67a234f601
+568,item3,Consulting,9067957a-ce95-11eb-aff1-7c67a234f601
+569,item8,Retail/ E-Commerce,9067957a-ce95-11eb-aff1-7c67a234f601
+570,item5,Education,9067957b-ce95-11eb-a3f9-7c67a234f601
+571,item6,Technology (Software/ Internet),9067957b-ce95-11eb-a3f9-7c67a234f601
+572,item12,Marketing,9067957b-ce95-11eb-a3f9-7c67a234f601
+573,item8,Retail/ E-Commerce,9067957b-ce95-11eb-a3f9-7c67a234f601
+574,item6,Technology (Software/ Internet),9067957c-ce95-11eb-9346-7c67a234f601
+575,item6,Technology (Software/ Internet),9067957d-ce95-11eb-82b5-7c67a234f601
+576,item13,Communications,9067957d-ce95-11eb-82b5-7c67a234f601
+577,item12,Marketing,9067957d-ce95-11eb-82b5-7c67a234f601
+578,item5,Education,9067957d-ce95-11eb-82b5-7c67a234f601
+579,item4,Public Sector/ Non-Profit Agencies,9067957d-ce95-11eb-82b5-7c67a234f601
+580,item6,Technology (Software/ Internet),9067bc86-ce95-11eb-b97f-7c67a234f601
+581,item6,Technology (Software/ Internet),9067bc87-ce95-11eb-977f-7c67a234f601
+582,item3,Consulting,9067ce03-ce95-11eb-8fa0-7c67a234f601
+583,item2,Healthcare,9067e4bf-ce95-11eb-afb1-7c67a234f601
+584,item6,Technology (Software/ Internet),9067e4c0-ce95-11eb-bebe-7c67a234f601
+585,item3,Consulting,9067e4c1-ce95-11eb-b85a-7c67a234f601
+586,item13,Communications,90680a68-ce95-11eb-9881-7c67a234f601
+587,item6,Technology (Software/ Internet),90680a68-ce95-11eb-9881-7c67a234f601
+588,item10,Transportation,90680a68-ce95-11eb-9881-7c67a234f601
+589,item6,Technology (Software/ Internet),90680a69-ce95-11eb-ac13-7c67a234f601
+590,item11,Insurance,90680a6a-ce95-11eb-bf44-7c67a234f601
+591,item13,Communications,90680a6a-ce95-11eb-bf44-7c67a234f601
+592,item6,Technology (Software/ Internet),90680a6a-ce95-11eb-bf44-7c67a234f601
+593,item8,Retail/ E-Commerce,90680a6a-ce95-11eb-bf44-7c67a234f601
+594,item1,Finance,90680a6a-ce95-11eb-bf44-7c67a234f601
+595,item6,Technology (Software/ Internet),90680a6b-ce95-11eb-ad05-7c67a234f601
+596,item13,Communications,906836e2-ce95-11eb-b267-7c67a234f601
+597,item3,Consulting,90685b18-ce95-11eb-99e6-7c67a234f601
+598,item12,Marketing,90685b18-ce95-11eb-99e6-7c67a234f601
+599,item6,Technology (Software/ Internet),90685b18-ce95-11eb-99e6-7c67a234f601
+600,item11,Insurance,90685b18-ce95-11eb-99e6-7c67a234f601
+601,item12,Marketing,90687faf-ce95-11eb-ba86-7c67a234f601
+602,item6,Technology (Software/ Internet),90687faf-ce95-11eb-ba86-7c67a234f601
+603,item8,Retail/ E-Commerce,90687faf-ce95-11eb-ba86-7c67a234f601
+604,item13,Communications,90687fb0-ce95-11eb-a8e5-7c67a234f601
+605,item12,Marketing,90687fb0-ce95-11eb-a8e5-7c67a234f601
+606,item6,Technology (Software/ Internet),90687fb0-ce95-11eb-a8e5-7c67a234f601
+607,item1,Finance,9068a856-ce95-11eb-bbd6-7c67a234f601
+608,item2,Healthcare,9068a856-ce95-11eb-bbd6-7c67a234f601
+609,item12,Marketing,9068a856-ce95-11eb-bbd6-7c67a234f601
+610,item6,Technology (Software/ Internet),9068a856-ce95-11eb-bbd6-7c67a234f601
+611,item5,Education,9068a856-ce95-11eb-bbd6-7c67a234f601
+612,item1,Finance,9068cd1e-ce95-11eb-a722-7c67a234f601
+613,item6,Technology (Software/ Internet),9068cd1f-ce95-11eb-b712-7c67a234f601
+614,item3,Consulting,9068f405-ce95-11eb-b487-7c67a234f601
+615,item6,Technology (Software/ Internet),9068f405-ce95-11eb-b487-7c67a234f601
+616,item13,Communications,9068f405-ce95-11eb-b487-7c67a234f601
+617,item7,Energy,9068f405-ce95-11eb-b487-7c67a234f601
+618,item1,Finance,9068f405-ce95-11eb-b487-7c67a234f601
+619,item8,Retail/ E-Commerce,9068f406-ce95-11eb-8144-7c67a234f601
+620,item6,Technology (Software/ Internet),9068f406-ce95-11eb-8144-7c67a234f601
+621,item6,Technology (Software/ Internet),9068f407-ce95-11eb-a25c-7c67a234f601
+622,item1,Finance,9068f408-ce95-11eb-9caf-7c67a234f601
+623,item1,Finance,9068f409-ce95-11eb-971f-7c67a234f601
+624,item13,Communications,9068f409-ce95-11eb-971f-7c67a234f601
+625,item8,Retail/ E-Commerce,9068f409-ce95-11eb-971f-7c67a234f601
+626,item1,Finance,90691afb-ce95-11eb-a4c3-7c67a234f601
+627,item5,Education,90691afb-ce95-11eb-a4c3-7c67a234f601
+628,item6,Technology (Software/ Internet),90691afb-ce95-11eb-a4c3-7c67a234f601
+629,item9,Manufacturing,90691afb-ce95-11eb-a4c3-7c67a234f601
+630,item13,Communications,90691afb-ce95-11eb-a4c3-7c67a234f601
+631,item12,Marketing,90691afc-ce95-11eb-98d0-7c67a234f601
+632,item10,Transportation,90691afc-ce95-11eb-98d0-7c67a234f601
+633,item6,Technology (Software/ Internet),90691afd-ce95-11eb-b77d-7c67a234f601
+634,item1,Finance,90691afe-ce95-11eb-bc64-7c67a234f601
+635,item6,Technology (Software/ Internet),90691afe-ce95-11eb-bc64-7c67a234f601
+636,item10,Transportation,90694207-ce95-11eb-b358-7c67a234f601
+637,item6,Technology (Software/ Internet),90694e10-ce95-11eb-b312-7c67a234f601
+638,item13,Communications,90694e10-ce95-11eb-b312-7c67a234f601
+639,item12,Marketing,90694e10-ce95-11eb-b312-7c67a234f601
+640,item6,Technology (Software/ Internet),90694e11-ce95-11eb-838b-7c67a234f601
+641,item8,Retail/ E-Commerce,90694e11-ce95-11eb-838b-7c67a234f601
+642,item7,Energy,90694e11-ce95-11eb-838b-7c67a234f601
+643,item6,Technology (Software/ Internet),90694e12-ce95-11eb-812d-7c67a234f601
+644,item7,Energy,90694e13-ce95-11eb-bb46-7c67a234f601
+645,item6,Technology (Software/ Internet),90694e13-ce95-11eb-bb46-7c67a234f601
+646,item1,Finance,90694e13-ce95-11eb-bb46-7c67a234f601
+647,item2,Healthcare,906968f5-ce95-11eb-9e1a-7c67a234f601
+648,item8,Retail/ E-Commerce,906968f5-ce95-11eb-9e1a-7c67a234f601
+649,item1,Finance,906968f5-ce95-11eb-9e1a-7c67a234f601
+650,item1,Finance,9069789d-ce95-11eb-990c-7c67a234f601
+651,item6,Technology (Software/ Internet),9069789d-ce95-11eb-990c-7c67a234f601
+652,item7,Energy,9069789d-ce95-11eb-990c-7c67a234f601
+653,item12,Marketing,9069789d-ce95-11eb-990c-7c67a234f601
+654,item3,Consulting,9069789d-ce95-11eb-990c-7c67a234f601
+655,item3,Consulting,9069789e-ce95-11eb-883e-7c67a234f601
+656,item5,Education,9069789e-ce95-11eb-883e-7c67a234f601
+657,item9,Manufacturing,9069789e-ce95-11eb-883e-7c67a234f601
+658,item10,Transportation,9069789e-ce95-11eb-883e-7c67a234f601
+659,item1,Finance,9069789f-ce95-11eb-9788-7c67a234f601
+660,item6,Technology (Software/ Internet),9069789f-ce95-11eb-9788-7c67a234f601
+661,item8,Retail/ E-Commerce,9069789f-ce95-11eb-9788-7c67a234f601
+662,item12,Marketing,9069789f-ce95-11eb-9788-7c67a234f601
+663,item10,Transportation,90698fe9-ce95-11eb-a607-7c67a234f601
+664,item6,Technology (Software/ Internet),90698fea-ce95-11eb-ae89-7c67a234f601
+665,item4,Public Sector/ Non-Profit Agencies,90698fea-ce95-11eb-ae89-7c67a234f601
+666,item13,Communications,90698fea-ce95-11eb-ae89-7c67a234f601
+667,item6,Technology (Software/ Internet),9069a205-ce95-11eb-be5a-7c67a234f601
+668,item1,Finance,9069a206-ce95-11eb-9c6f-7c67a234f601
+669,item13,Communications,9069a206-ce95-11eb-9c6f-7c67a234f601
+670,item12,Marketing,9069a206-ce95-11eb-9c6f-7c67a234f601
+671,item6,Technology (Software/ Internet),9069a206-ce95-11eb-9c6f-7c67a234f601
+672,item2,Healthcare,9069a207-ce95-11eb-9148-7c67a234f601
+673,item12,Marketing,9069a207-ce95-11eb-9148-7c67a234f601
+674,item13,Communications,9069a207-ce95-11eb-9148-7c67a234f601
+675,item6,Technology (Software/ Internet),9069a207-ce95-11eb-9148-7c67a234f601
+676,item6,Technology (Software/ Internet),9069b6e0-ce95-11eb-9f22-7c67a234f601
+677,item6,Technology (Software/ Internet),9069b6e1-ce95-11eb-8356-7c67a234f601
+678,other,other,9069cfab-ce95-11eb-97af-7c67a234f601
+679,item6,Technology (Software/ Internet),9069cfac-ce95-11eb-9487-7c67a234f601
+680,item1,Finance,9069cfac-ce95-11eb-9487-7c67a234f601
+681,item10,Transportation,9069cfac-ce95-11eb-9487-7c67a234f601
+682,item13,Communications,9069ddd5-ce95-11eb-b041-7c67a234f601
+683,item3,Consulting,9069ddd6-ce95-11eb-988c-7c67a234f601
+684,item5,Education,9069ddd6-ce95-11eb-988c-7c67a234f601
+685,item12,Marketing,9069ddd6-ce95-11eb-988c-7c67a234f601
+686,item13,Communications,9069ddd6-ce95-11eb-988c-7c67a234f601
+687,item4,Public Sector/ Non-Profit Agencies,9069ddd6-ce95-11eb-988c-7c67a234f601
+688,item1,Finance,9069ddd6-ce95-11eb-988c-7c67a234f601
+689,item8,Retail/ E-Commerce,9069ddd6-ce95-11eb-988c-7c67a234f601
+690,item6,Technology (Software/ Internet),9069ddd6-ce95-11eb-988c-7c67a234f601
+691,item6,Technology (Software/ Internet),9069ddd7-ce95-11eb-859c-7c67a234f601
+692,item6,Technology (Software/ Internet),9069ddd8-ce95-11eb-b0fb-7c67a234f601
+693,other,other,9069ddd8-ce95-11eb-b0fb-7c67a234f601
+694,item6,Technology (Software/ Internet),906a04c8-ce95-11eb-b468-7c67a234f601
+695,item5,Education,906a04c8-ce95-11eb-b468-7c67a234f601
+696,item3,Consulting,906a04c8-ce95-11eb-b468-7c67a234f601
+697,item7,Energy,906a04c8-ce95-11eb-b468-7c67a234f601
+698,item8,Retail/ E-Commerce,906a04c8-ce95-11eb-b468-7c67a234f601
+699,item12,Marketing,906a04c8-ce95-11eb-b468-7c67a234f601
+700,item3,Consulting,906a04c9-ce95-11eb-8f6a-7c67a234f601
+701,item2,Healthcare,906a04c9-ce95-11eb-8f6a-7c67a234f601
+702,item1,Finance,906a04c9-ce95-11eb-8f6a-7c67a234f601
+703,item4,Public Sector/ Non-Profit Agencies,906a04c9-ce95-11eb-8f6a-7c67a234f601
+704,item5,Education,906a04ca-ce95-11eb-9b48-7c67a234f601
+705,item1,Finance,906a04cb-ce95-11eb-9bc2-7c67a234f601
+706,item2,Healthcare,906a04cb-ce95-11eb-9bc2-7c67a234f601
+707,item3,Consulting,906a04cb-ce95-11eb-9bc2-7c67a234f601
+708,item6,Technology (Software/ Internet),906a04cb-ce95-11eb-9bc2-7c67a234f601
+709,item8,Retail/ E-Commerce,906a04cb-ce95-11eb-9bc2-7c67a234f601
+710,item13,Communications,906a04cb-ce95-11eb-9bc2-7c67a234f601
+711,item12,Marketing,906a04cb-ce95-11eb-9bc2-7c67a234f601
+712,item11,Insurance,906a04cb-ce95-11eb-9bc2-7c67a234f601
+713,item9,Manufacturing,906a04cb-ce95-11eb-9bc2-7c67a234f601
+714,item10,Transportation,906a04cb-ce95-11eb-9bc2-7c67a234f601
+715,item7,Energy,906a04cb-ce95-11eb-9bc2-7c67a234f601
+716,item5,Education,906a04cb-ce95-11eb-9bc2-7c67a234f601
+717,item4,Public Sector/ Non-Profit Agencies,906a04cb-ce95-11eb-9bc2-7c67a234f601
+718,item6,Technology (Software/ Internet),906a04cc-ce95-11eb-b561-7c67a234f601
+719,item1,Finance,906a2d3f-ce95-11eb-a1ba-7c67a234f601
+720,item3,Consulting,906a2d3f-ce95-11eb-a1ba-7c67a234f601
+721,item4,Public Sector/ Non-Profit Agencies,906a2d3f-ce95-11eb-a1ba-7c67a234f601
+722,item6,Technology (Software/ Internet),906a2d3f-ce95-11eb-a1ba-7c67a234f601
+723,item13,Communications,906a2d3f-ce95-11eb-a1ba-7c67a234f601
+724,item8,Retail/ E-Commerce,906a2d3f-ce95-11eb-a1ba-7c67a234f601
+725,item12,Marketing,906a2d3f-ce95-11eb-a1ba-7c67a234f601
+726,item1,Finance,906a2d40-ce95-11eb-bee9-7c67a234f601
+727,item3,Consulting,906a2d40-ce95-11eb-bee9-7c67a234f601
+728,item6,Technology (Software/ Internet),906a2d40-ce95-11eb-bee9-7c67a234f601
+729,item8,Retail/ E-Commerce,906a2d40-ce95-11eb-bee9-7c67a234f601
+730,item13,Communications,906a2d40-ce95-11eb-bee9-7c67a234f601
+731,item12,Marketing,906a2d40-ce95-11eb-bee9-7c67a234f601
+732,item13,Communications,906a2d41-ce95-11eb-b7f9-7c67a234f601
+733,item12,Marketing,906a2d41-ce95-11eb-b7f9-7c67a234f601
+734,item1,Finance,906a2d41-ce95-11eb-b7f9-7c67a234f601
+735,item8,Retail/ E-Commerce,906a2d41-ce95-11eb-b7f9-7c67a234f601
+736,item13,Communications,906a2d42-ce95-11eb-a3de-7c67a234f601
+737,other,other,906a52b4-ce95-11eb-b9bd-7c67a234f601
+738,other,other,906a52b5-ce95-11eb-9ece-7c67a234f601
+739,item3,Consulting,906a52b6-ce95-11eb-935f-7c67a234f601
+740,item6,Technology (Software/ Internet),906a52b7-ce95-11eb-9c4b-7c67a234f601
+741,item13,Communications,906a52b7-ce95-11eb-9c4b-7c67a234f601
+742,item5,Education,906a52b7-ce95-11eb-9c4b-7c67a234f601
+743,item12,Marketing,906a52b7-ce95-11eb-9c4b-7c67a234f601
+744,item5,Education,906a79ab-ce95-11eb-a1b8-7c67a234f601
+745,item6,Technology (Software/ Internet),906a79ab-ce95-11eb-a1b8-7c67a234f601
+746,item1,Finance,906a79ab-ce95-11eb-a1b8-7c67a234f601
+747,item12,Marketing,906a79ab-ce95-11eb-a1b8-7c67a234f601
+748,item7,Energy,906a79ab-ce95-11eb-a1b8-7c67a234f601
+749,item8,Retail/ E-Commerce,906a79ac-ce95-11eb-9f8a-7c67a234f601
+750,item13,Communications,906a79ac-ce95-11eb-9f8a-7c67a234f601
+751,item6,Technology (Software/ Internet),906a79ac-ce95-11eb-9f8a-7c67a234f601
+752,item4,Public Sector/ Non-Profit Agencies,906a79ad-ce95-11eb-b186-7c67a234f601
+753,item10,Transportation,906a79ad-ce95-11eb-b186-7c67a234f601
+754,item9,Manufacturing,906a79ad-ce95-11eb-b186-7c67a234f601
+755,item6,Technology (Software/ Internet),906a79ad-ce95-11eb-b186-7c67a234f601
+756,item2,Healthcare,906a79ae-ce95-11eb-98c3-7c67a234f601
+757,item3,Consulting,906a79ae-ce95-11eb-98c3-7c67a234f601
+758,item5,Education,906a79ae-ce95-11eb-98c3-7c67a234f601
+759,item8,Retail/ E-Commerce,906a79ae-ce95-11eb-98c3-7c67a234f601
+760,item12,Marketing,906a79ae-ce95-11eb-98c3-7c67a234f601
+761,item2,Healthcare,906a79af-ce95-11eb-bd36-7c67a234f601
+762,item6,Technology (Software/ Internet),906a79af-ce95-11eb-bd36-7c67a234f601
+763,item7,Energy,906a79af-ce95-11eb-bd36-7c67a234f601
+764,item6,Technology (Software/ Internet),906aa0a0-ce95-11eb-8355-7c67a234f601
+765,item3,Consulting,906aa0a0-ce95-11eb-8355-7c67a234f601
+766,item3,Consulting,906aa0a1-ce95-11eb-899e-7c67a234f601
+767,item6,Technology (Software/ Internet),906aa0a1-ce95-11eb-899e-7c67a234f601
+768,item8,Retail/ E-Commerce,906aa0a1-ce95-11eb-899e-7c67a234f601
+769,item12,Marketing,906aa0a1-ce95-11eb-899e-7c67a234f601
+770,item6,Technology (Software/ Internet),906aa0a2-ce95-11eb-90cb-7c67a234f601
+771,item7,Energy,906aa0a2-ce95-11eb-90cb-7c67a234f601
+772,item5,Education,906aa0a3-ce95-11eb-9611-7c67a234f601
+773,item6,Technology (Software/ Internet),906aa0a3-ce95-11eb-9611-7c67a234f601
+774,item12,Marketing,906aa0a3-ce95-11eb-9611-7c67a234f601
+775,item13,Communications,906aa0a3-ce95-11eb-9611-7c67a234f601
+776,item7,Energy,906ac788-ce95-11eb-a6f7-7c67a234f601
+777,item4,Public Sector/ Non-Profit Agencies,906ac788-ce95-11eb-a6f7-7c67a234f601
+778,item10,Transportation,906ac788-ce95-11eb-a6f7-7c67a234f601
+779,item13,Communications,906ac788-ce95-11eb-a6f7-7c67a234f601
+780,item3,Consulting,906ac788-ce95-11eb-a6f7-7c67a234f601
+781,item6,Technology (Software/ Internet),906ac788-ce95-11eb-a6f7-7c67a234f601
+782,other,other,906ac788-ce95-11eb-a6f7-7c67a234f601
+783,item1,Finance,906b1739-ce95-11eb-8944-7c67a234f601
+784,item3,Consulting,906b1739-ce95-11eb-8944-7c67a234f601
+785,item4,Public Sector/ Non-Profit Agencies,906b1739-ce95-11eb-8944-7c67a234f601
+786,item13,Communications,906b1739-ce95-11eb-8944-7c67a234f601
+787,item2,Healthcare,906b173a-ce95-11eb-b3d4-7c67a234f601
+788,item8,Retail/ E-Commerce,906b173a-ce95-11eb-b3d4-7c67a234f601
+789,item13,Communications,906b3c84-ce95-11eb-8c2a-7c67a234f601
+790,item12,Marketing,906b3c84-ce95-11eb-8c2a-7c67a234f601
+791,item4,Public Sector/ Non-Profit Agencies,906b3c84-ce95-11eb-8c2a-7c67a234f601
+792,item5,Education,906b3c84-ce95-11eb-8c2a-7c67a234f601
+793,item8,Retail/ E-Commerce,906b3c84-ce95-11eb-8c2a-7c67a234f601
+794,item2,Healthcare,906b3c85-ce95-11eb-9b87-7c67a234f601
+795,item5,Education,906b3c85-ce95-11eb-9b87-7c67a234f601
+796,item6,Technology (Software/ Internet),906b3c85-ce95-11eb-9b87-7c67a234f601
+797,item8,Retail/ E-Commerce,906b3c85-ce95-11eb-9b87-7c67a234f601
+798,item13,Communications,906b3c85-ce95-11eb-9b87-7c67a234f601
+799,item2,Healthcare,906b3c86-ce95-11eb-b6a7-7c67a234f601
+800,item6,Technology (Software/ Internet),906b3c86-ce95-11eb-b6a7-7c67a234f601
+801,item3,Consulting,906b3c86-ce95-11eb-b6a7-7c67a234f601
+802,item4,Public Sector/ Non-Profit Agencies,906b3c86-ce95-11eb-b6a7-7c67a234f601
+803,item6,Technology (Software/ Internet),906b65e2-ce95-11eb-8b5c-7c67a234f601
+804,item3,Consulting,906b65e3-ce95-11eb-a294-7c67a234f601
+805,item5,Education,906b65e3-ce95-11eb-a294-7c67a234f601
+806,item4,Public Sector/ Non-Profit Agencies,906b65e3-ce95-11eb-a294-7c67a234f601

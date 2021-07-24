@@ -1,0 +1,288 @@
+,key,values,quest_id
+0,other,other,905ddcf2-ce95-11eb-9a92-7c67a234f601
+1,item1,Computer Science,905e4cf5-ce95-11eb-96a9-7c67a234f601
+2,item6,Management,905e4cf5-ce95-11eb-96a9-7c67a234f601
+3,other,other,905e73fd-ce95-11eb-a7b0-7c67a234f601
+4,other,other,905e9b27-ce95-11eb-9c37-7c67a234f601
+5,item1,Computer Science,905ec1ec-ce95-11eb-8136-7c67a234f601
+6,item1,Computer Science,905ec1ed-ce95-11eb-829c-7c67a234f601
+7,item1,Computer Science,905ef688-ce95-11eb-9b57-7c67a234f601
+8,item7,Law,905f0fbd-ce95-11eb-b153-7c67a234f601
+9,other,other,905f0fbe-ce95-11eb-8396-7c67a234f601
+10,item1,Computer Science,905f36c8-ce95-11eb-bef0-7c67a234f601
+11,item6,Management,905f36c9-ce95-11eb-aa33-7c67a234f601
+12,item6,Management,905f36ca-ce95-11eb-9411-7c67a234f601
+13,other,other,905f36ca-ce95-11eb-9411-7c67a234f601
+14,item1,Computer Science,905f5dbf-ce95-11eb-a1fb-7c67a234f601
+15,other,other,905f5dc0-ce95-11eb-8056-7c67a234f601
+16,item3,Economics,905f5dc1-ce95-11eb-bfa7-7c67a234f601
+17,item1,Computer Science,905f84ab-ce95-11eb-8886-7c67a234f601
+18,item3,Economics,905f84ac-ce95-11eb-bf5f-7c67a234f601
+19,item1,Computer Science,905fab9d-ce95-11eb-a1ed-7c67a234f601
+20,other,other,905fab9e-ce95-11eb-a53d-7c67a234f601
+21,other,other,905fd65b-ce95-11eb-b835-7c67a234f601
+22,other,other,905ff97f-ce95-11eb-a994-7c67a234f601
+23,other,other,905ff980-ce95-11eb-98b7-7c67a234f601
+24,item8,Medicine,90602078-ce95-11eb-bc1d-7c67a234f601
+25,item1,Computer Science,906036c8-ce95-11eb-8c78-7c67a234f601
+26,item1,Computer Science,9060477c-ce95-11eb-ace3-7c67a234f601
+27,item1,Computer Science,9060477d-ce95-11eb-ab2e-7c67a234f601
+28,item1,Computer Science,9060617e-ce95-11eb-bd26-7c67a234f601
+29,item6,Management,906073cb-ce95-11eb-acb0-7c67a234f601
+30,other,other,906073cb-ce95-11eb-acb0-7c67a234f601
+31,item1,Computer Science,906073cc-ce95-11eb-aac4-7c67a234f601
+32,other,other,90609554-ce95-11eb-a24a-7c67a234f601
+33,item7,Law,90609555-ce95-11eb-b61a-7c67a234f601
+34,other,other,9060c2e6-ce95-11eb-b8b8-7c67a234f601
+35,item6,Management,9060cbb2-ce95-11eb-bac1-7c67a234f601
+36,item8,Medicine,9060e347-ce95-11eb-abbb-7c67a234f601
+37,other,other,90610a3c-ce95-11eb-a50e-7c67a234f601
+38,item6,Management,90611cd3-ce95-11eb-bebc-7c67a234f601
+39,item7,Law,90611cd3-ce95-11eb-bebc-7c67a234f601
+40,item5,Accounting,90611cd4-ce95-11eb-a328-7c67a234f601
+41,item6,Management,90611cd4-ce95-11eb-a328-7c67a234f601
+42,other,other,90611cd4-ce95-11eb-a328-7c67a234f601
+43,item6,Management,9061312a-ce95-11eb-ba28-7c67a234f601
+44,item8,Medicine,90614c17-ce95-11eb-b604-7c67a234f601
+45,item1,Computer Science,9061581f-ce95-11eb-af12-7c67a234f601
+46,other,other,9061581f-ce95-11eb-af12-7c67a234f601
+47,item5,Accounting,90615820-ce95-11eb-9088-7c67a234f601
+48,other,other,90615820-ce95-11eb-9088-7c67a234f601
+49,item2,Statistics,906178f8-ce95-11eb-95e9-7c67a234f601
+50,item3,Economics,906178f8-ce95-11eb-95e9-7c67a234f601
+51,item5,Accounting,90617f12-ce95-11eb-a3c8-7c67a234f601
+52,item7,Law,90617f13-ce95-11eb-bc4e-7c67a234f601
+53,item6,Management,9061a61c-ce95-11eb-ba30-7c67a234f601
+54,item2,Statistics,9061a61d-ce95-11eb-a939-7c67a234f601
+55,item3,Economics,9061a61d-ce95-11eb-a939-7c67a234f601
+56,item3,Economics,9061d752-ce95-11eb-afc7-7c67a234f601
+57,item1,Computer Science,9061d753-ce95-11eb-967a-7c67a234f601
+58,other,other,9061d753-ce95-11eb-967a-7c67a234f601
+59,item1,Computer Science,9061d754-ce95-11eb-a086-7c67a234f601
+60,item1,Computer Science,9061f3ee-ce95-11eb-a9d9-7c67a234f601
+61,other,other,90620452-ce95-11eb-9ec8-7c67a234f601
+62,item4,Electrical Engineering,90620453-ce95-11eb-bb57-7c67a234f601
+63,item1,Computer Science,90620453-ce95-11eb-bb57-7c67a234f601
+64,item6,Management,90620453-ce95-11eb-bb57-7c67a234f601
+65,item1,Computer Science,90621ae1-ce95-11eb-8a7d-7c67a234f601
+66,item4,Electrical Engineering,90622d22-ce95-11eb-a50b-7c67a234f601
+67,item3,Economics,90622d22-ce95-11eb-a50b-7c67a234f601
+68,item5,Accounting,906241d4-ce95-11eb-a1eb-7c67a234f601
+69,item1,Computer Science,906241d5-ce95-11eb-9850-7c67a234f601
+70,item6,Management,906241d5-ce95-11eb-9850-7c67a234f601
+71,item1,Computer Science,90625b11-ce95-11eb-b351-7c67a234f601
+72,item3,Economics,90626928-ce95-11eb-8f5e-7c67a234f601
+73,item6,Management,90626928-ce95-11eb-8f5e-7c67a234f601
+74,item1,Computer Science,90626929-ce95-11eb-86fe-7c67a234f601
+75,item6,Management,9062692a-ce95-11eb-8ab8-7c67a234f601
+76,item6,Management,90628a02-ce95-11eb-9291-7c67a234f601
+77,item3,Economics,90628a02-ce95-11eb-9291-7c67a234f601
+78,other,other,90628fbe-ce95-11eb-bb9e-7c67a234f601
+79,item2,Statistics,90628fbf-ce95-11eb-819c-7c67a234f601
+80,item3,Economics,90628fbf-ce95-11eb-819c-7c67a234f601
+81,item1,Computer Science,90628fc0-ce95-11eb-8dae-7c67a234f601
+82,other,other,9062b753-ce95-11eb-8959-7c67a234f601
+83,other,other,9062b754-ce95-11eb-b31e-7c67a234f601
+84,item6,Management,9062b755-ce95-11eb-85a2-7c67a234f601
+85,item6,Management,9062ddb1-ce95-11eb-bd2f-7c67a234f601
+86,item1,Computer Science,9062ddb2-ce95-11eb-89d0-7c67a234f601
+87,item6,Management,9062ddb3-ce95-11eb-acc8-7c67a234f601
+88,item1,Computer Science,906304a6-ce95-11eb-b475-7c67a234f601
+89,item1,Computer Science,906304a7-ce95-11eb-b805-7c67a234f601
+90,other,other,90632b9f-ce95-11eb-bb7f-7c67a234f601
+91,item7,Law,90632ba0-ce95-11eb-b7c2-7c67a234f601
+92,item1,Computer Science,9063799a-ce95-11eb-b32b-7c67a234f601
+93,item6,Management,9063799a-ce95-11eb-b32b-7c67a234f601
+94,item1,Computer Science,9063a260-ce95-11eb-87e8-7c67a234f601
+95,item5,Accounting,9063c77d-ce95-11eb-a120-7c67a234f601
+96,other,other,9063c77e-ce95-11eb-81b3-7c67a234f601
+97,item1,Computer Science,9063ee76-ce95-11eb-a84b-7c67a234f601
+98,other,other,9063ee77-ce95-11eb-9098-7c67a234f601
+99,item1,Computer Science,9063ee78-ce95-11eb-a8d6-7c67a234f601
+100,item1,Computer Science,90642613-ce95-11eb-8b26-7c67a234f601
+101,item1,Computer Science,90642614-ce95-11eb-8db0-7c67a234f601
+102,item6,Management,90642614-ce95-11eb-8db0-7c67a234f601
+103,item4,Electrical Engineering,90643c59-ce95-11eb-aec2-7c67a234f601
+104,item1,Computer Science,90643c59-ce95-11eb-aec2-7c67a234f601
+105,item1,Computer Science,90643c5a-ce95-11eb-b510-7c67a234f601
+106,other,other,90646353-ce95-11eb-9f27-7c67a234f601
+107,item3,Economics,90646354-ce95-11eb-a5c9-7c67a234f601
+108,other,other,90646355-ce95-11eb-ae9f-7c67a234f601
+109,item3,Economics,9064923a-ce95-11eb-a2ad-7c67a234f601
+110,item1,Computer Science,9064923b-ce95-11eb-a771-7c67a234f601
+111,item1,Computer Science,9064b6be-ce95-11eb-b2ac-7c67a234f601
+112,other,other,9064b6be-ce95-11eb-b2ac-7c67a234f601
+113,item6,Management,9064b6be-ce95-11eb-b2ac-7c67a234f601
+114,other,other,9064c427-ce95-11eb-9d48-7c67a234f601
+115,item1,Computer Science,9064c428-ce95-11eb-a021-7c67a234f601
+116,item1,Computer Science,9064d839-ce95-11eb-8172-7c67a234f601
+117,item1,Computer Science,9064d83a-ce95-11eb-9bef-7c67a234f601
+118,item1,Computer Science,9064d83b-ce95-11eb-a034-7c67a234f601
+119,item5,Accounting,9064d83c-ce95-11eb-bc96-7c67a234f601
+120,item6,Management,9064d83c-ce95-11eb-bc96-7c67a234f601
+121,item5,Accounting,9064ff26-ce95-11eb-8428-7c67a234f601
+122,other,other,9064ff27-ce95-11eb-aaa6-7c67a234f601
+123,item1,Computer Science,9064ff28-ce95-11eb-857f-7c67a234f601
+124,item1,Computer Science,9064ff29-ce95-11eb-a3d3-7c67a234f601
+125,other,other,9064ff2a-ce95-11eb-8430-7c67a234f601
+126,item1,Computer Science,90652a93-ce95-11eb-a8af-7c67a234f601
+127,other,other,90652a94-ce95-11eb-892d-7c67a234f601
+128,other,other,90652a95-ce95-11eb-8845-7c67a234f601
+129,item2,Statistics,90652a96-ce95-11eb-97b2-7c67a234f601
+130,item6,Management,906555be-ce95-11eb-9d03-7c67a234f601
+131,item1,Computer Science,906555bf-ce95-11eb-92ac-7c67a234f601
+132,item6,Management,906555c0-ce95-11eb-a091-7c67a234f601
+133,item1,Computer Science,906555c1-ce95-11eb-95e0-7c67a234f601
+134,item2,Statistics,9065740c-ce95-11eb-968f-7c67a234f601
+135,other,other,90658229-ce95-11eb-ab19-7c67a234f601
+136,other,other,9065822a-ce95-11eb-9df5-7c67a234f601
+137,item1,Computer Science,9065822b-ce95-11eb-a3e6-7c67a234f601
+138,item6,Management,90659aff-ce95-11eb-bcbe-7c67a234f601
+139,item2,Statistics,90659b00-ce95-11eb-9e8f-7c67a234f601
+140,item3,Economics,90659b00-ce95-11eb-9e8f-7c67a234f601
+141,item1,Computer Science,90659b01-ce95-11eb-b7ea-7c67a234f601
+142,item8,Medicine,90659b02-ce95-11eb-a379-7c67a234f601
+143,item6,Management,9065e939-ce95-11eb-9702-7c67a234f601
+144,item6,Management,9065e93a-ce95-11eb-887d-7c67a234f601
+145,item1,Computer Science,90660fe1-ce95-11eb-a30e-7c67a234f601
+146,other,other,90660fe2-ce95-11eb-a2b5-7c67a234f601
+147,item1,Computer Science,90660fe3-ce95-11eb-8747-7c67a234f601
+148,other,other,906636ce-ce95-11eb-ba43-7c67a234f601
+149,item6,Management,906636cf-ce95-11eb-8679-7c67a234f601
+150,item1,Computer Science,906636d0-ce95-11eb-9875-7c67a234f601
+151,other,other,906636d1-ce95-11eb-8379-7c67a234f601
+152,item2,Statistics,90665dbc-ce95-11eb-8162-7c67a234f601
+153,item3,Economics,90665dbd-ce95-11eb-bcc1-7c67a234f601
+154,item1,Computer Science,90665dbd-ce95-11eb-bcc1-7c67a234f601
+155,item2,Statistics,90665dbe-ce95-11eb-b66a-7c67a234f601
+156,item1,Computer Science,90665dbf-ce95-11eb-a9b5-7c67a234f601
+157,item1,Computer Science,90665dc0-ce95-11eb-926f-7c67a234f601
+158,item6,Management,90665dc0-ce95-11eb-926f-7c67a234f601
+159,item1,Computer Science,90668798-ce95-11eb-86fc-7c67a234f601
+160,other,other,90668799-ce95-11eb-b4ec-7c67a234f601
+161,item2,Statistics,9066879a-ce95-11eb-bafa-7c67a234f601
+162,item6,Management,9066879b-ce95-11eb-9d4a-7c67a234f601
+163,item3,Economics,9066879b-ce95-11eb-9d4a-7c67a234f601
+164,item2,Statistics,9066abb5-ce95-11eb-aa16-7c67a234f601
+165,item3,Economics,9066abb5-ce95-11eb-aa16-7c67a234f601
+166,item2,Statistics,9066abb6-ce95-11eb-b526-7c67a234f601
+167,item3,Economics,9066abb7-ce95-11eb-846d-7c67a234f601
+168,item3,Economics,9066abb8-ce95-11eb-b61d-7c67a234f601
+169,item2,Statistics,9066abb8-ce95-11eb-b61d-7c67a234f601
+170,item2,Statistics,9066abb9-ce95-11eb-af6a-7c67a234f601
+171,item3,Economics,9066abb9-ce95-11eb-af6a-7c67a234f601
+172,other,other,9066d2aa-ce95-11eb-b221-7c67a234f601
+173,item3,Economics,9066d2ab-ce95-11eb-be67-7c67a234f601
+174,item1,Computer Science,9066d2ac-ce95-11eb-8752-7c67a234f601
+175,item1,Computer Science,9066d2ad-ce95-11eb-82c7-7c67a234f601
+176,item6,Management,9066faad-ce95-11eb-a4b7-7c67a234f601
+177,item7,Law,9066faad-ce95-11eb-a4b7-7c67a234f601
+178,item3,Economics,9066faae-ce95-11eb-9b99-7c67a234f601
+179,item2,Statistics,9066faae-ce95-11eb-9b99-7c67a234f601
+180,item1,Computer Science,9066faaf-ce95-11eb-beb4-7c67a234f601
+181,item3,Economics,9066fab0-ce95-11eb-ba75-7c67a234f601
+182,item6,Management,9066fab0-ce95-11eb-ba75-7c67a234f601
+183,other,other,9066fab1-ce95-11eb-a4e2-7c67a234f601
+184,other,other,90672094-ce95-11eb-9bfe-7c67a234f601
+185,item1,Computer Science,90672095-ce95-11eb-a84d-7c67a234f601
+186,item1,Computer Science,90672096-ce95-11eb-9663-7c67a234f601
+187,item3,Economics,90672097-ce95-11eb-b73b-7c67a234f601
+188,other,other,90674789-ce95-11eb-ac21-7c67a234f601
+189,item1,Computer Science,9067478a-ce95-11eb-bc48-7c67a234f601
+190,item1,Computer Science,9067478b-ce95-11eb-aba9-7c67a234f601
+191,other,other,9067478c-ce95-11eb-94f6-7c67a234f601
+192,item1,Computer Science,90676757-ce95-11eb-85fc-7c67a234f601
+193,item3,Economics,90677020-ce95-11eb-a2f6-7c67a234f601
+194,item1,Computer Science,90677021-ce95-11eb-a3f5-7c67a234f601
+195,other,other,90677022-ce95-11eb-911c-7c67a234f601
+196,other,other,90677023-ce95-11eb-8bd4-7c67a234f601
+197,item1,Computer Science,9067957a-ce95-11eb-aff1-7c67a234f601
+198,other,other,9067957b-ce95-11eb-a3f9-7c67a234f601
+199,item5,Accounting,9067957c-ce95-11eb-9346-7c67a234f601
+200,other,other,9067957d-ce95-11eb-82b5-7c67a234f601
+201,item1,Computer Science,9067bc86-ce95-11eb-b97f-7c67a234f601
+202,item1,Computer Science,9067bc87-ce95-11eb-977f-7c67a234f601
+203,other,other,9067ce03-ce95-11eb-8fa0-7c67a234f601
+204,item1,Computer Science,9067e4bf-ce95-11eb-afb1-7c67a234f601
+205,item1,Computer Science,9067e4c0-ce95-11eb-bebe-7c67a234f601
+206,item1,Computer Science,9067e4c1-ce95-11eb-b85a-7c67a234f601
+207,item1,Computer Science,90680a69-ce95-11eb-ac13-7c67a234f601
+208,item2,Statistics,90680a6a-ce95-11eb-bf44-7c67a234f601
+209,item1,Computer Science,90680a6b-ce95-11eb-ad05-7c67a234f601
+210,item7,Law,906836e2-ce95-11eb-b267-7c67a234f601
+211,item2,Statistics,90685b18-ce95-11eb-99e6-7c67a234f601
+212,item3,Economics,90685b18-ce95-11eb-99e6-7c67a234f601
+213,item1,Computer Science,90687faf-ce95-11eb-ba86-7c67a234f601
+214,item7,Law,90687fb0-ce95-11eb-a8e5-7c67a234f601
+215,item1,Computer Science,9068a856-ce95-11eb-bbd6-7c67a234f601
+216,item5,Accounting,9068cd1e-ce95-11eb-a722-7c67a234f601
+217,other,other,9068cd1f-ce95-11eb-b712-7c67a234f601
+218,item2,Statistics,9068f405-ce95-11eb-b487-7c67a234f601
+219,item1,Computer Science,9068f406-ce95-11eb-8144-7c67a234f601
+220,item1,Computer Science,9068f407-ce95-11eb-a25c-7c67a234f601
+221,item5,Accounting,9068f408-ce95-11eb-9caf-7c67a234f601
+222,item6,Management,9068f409-ce95-11eb-971f-7c67a234f601
+223,item1,Computer Science,90691afb-ce95-11eb-a4c3-7c67a234f601
+224,other,other,90691afc-ce95-11eb-98d0-7c67a234f601
+225,item1,Computer Science,90691afd-ce95-11eb-b77d-7c67a234f601
+226,item1,Computer Science,90691afe-ce95-11eb-bc64-7c67a234f601
+227,item5,Accounting,90691afe-ce95-11eb-bc64-7c67a234f601
+228,item6,Management,90694207-ce95-11eb-b358-7c67a234f601
+229,item1,Computer Science,90694e10-ce95-11eb-b312-7c67a234f601
+230,other,other,90694e11-ce95-11eb-838b-7c67a234f601
+231,item1,Computer Science,90694e12-ce95-11eb-812d-7c67a234f601
+232,other,other,90694e13-ce95-11eb-bb46-7c67a234f601
+233,other,other,906968f5-ce95-11eb-9e1a-7c67a234f601
+234,other,other,9069789d-ce95-11eb-990c-7c67a234f601
+235,item6,Management,9069789e-ce95-11eb-883e-7c67a234f601
+236,item1,Computer Science,9069789e-ce95-11eb-883e-7c67a234f601
+237,item2,Statistics,9069789f-ce95-11eb-9788-7c67a234f601
+238,item3,Economics,9069789f-ce95-11eb-9788-7c67a234f601
+239,other,other,9069789f-ce95-11eb-9788-7c67a234f601
+240,other,other,90698fe9-ce95-11eb-a607-7c67a234f601
+241,item1,Computer Science,90698fea-ce95-11eb-ae89-7c67a234f601
+242,other,other,9069a205-ce95-11eb-be5a-7c67a234f601
+243,item1,Computer Science,9069a206-ce95-11eb-9c6f-7c67a234f601
+244,item8,Medicine,9069a207-ce95-11eb-9148-7c67a234f601
+245,item6,Management,9069b6e0-ce95-11eb-9f22-7c67a234f601
+246,item5,Accounting,9069b6e1-ce95-11eb-8356-7c67a234f601
+247,other,other,9069cfab-ce95-11eb-97af-7c67a234f601
+248,other,other,9069cfac-ce95-11eb-9487-7c67a234f601
+249,item7,Law,9069ddd5-ce95-11eb-b041-7c67a234f601
+250,item6,Management,9069ddd6-ce95-11eb-988c-7c67a234f601
+251,other,other,9069ddd7-ce95-11eb-859c-7c67a234f601
+252,other,other,9069ddd8-ce95-11eb-b0fb-7c67a234f601
+253,item1,Computer Science,906a04c8-ce95-11eb-b468-7c67a234f601
+254,item3,Economics,906a04c9-ce95-11eb-8f6a-7c67a234f601
+255,item1,Computer Science,906a04ca-ce95-11eb-9b48-7c67a234f601
+256,item3,Economics,906a04ca-ce95-11eb-9b48-7c67a234f601
+257,item1,Computer Science,906a04cb-ce95-11eb-9bc2-7c67a234f601
+258,item1,Computer Science,906a04cc-ce95-11eb-b561-7c67a234f601
+259,item1,Computer Science,906a2d3f-ce95-11eb-a1ba-7c67a234f601
+260,item1,Computer Science,906a2d40-ce95-11eb-bee9-7c67a234f601
+261,item3,Economics,906a2d41-ce95-11eb-b7f9-7c67a234f601
+262,other,other,906a2d42-ce95-11eb-a3de-7c67a234f601
+263,item6,Management,906a52b4-ce95-11eb-b9bd-7c67a234f601
+264,other,other,906a52b5-ce95-11eb-9ece-7c67a234f601
+265,other,other,906a52b6-ce95-11eb-935f-7c67a234f601
+266,item1,Computer Science,906a52b7-ce95-11eb-9c4b-7c67a234f601
+267,item7,Law,906a52b7-ce95-11eb-9c4b-7c67a234f601
+268,item1,Computer Science,906a79ab-ce95-11eb-a1b8-7c67a234f601
+269,item1,Computer Science,906a79ac-ce95-11eb-9f8a-7c67a234f601
+270,item4,Electrical Engineering,906a79ad-ce95-11eb-b186-7c67a234f601
+271,item1,Computer Science,906a79ad-ce95-11eb-b186-7c67a234f601
+272,other,other,906a79ae-ce95-11eb-98c3-7c67a234f601
+273,item1,Computer Science,906a79af-ce95-11eb-bd36-7c67a234f601
+274,item7,Law,906aa0a0-ce95-11eb-8355-7c67a234f601
+275,item7,Law,906aa0a1-ce95-11eb-899e-7c67a234f601
+276,other,other,906aa0a1-ce95-11eb-899e-7c67a234f601
+277,item3,Economics,906aa0a2-ce95-11eb-90cb-7c67a234f601
+278,other,other,906aa0a3-ce95-11eb-9611-7c67a234f601
+279,other,other,906ac788-ce95-11eb-a6f7-7c67a234f601
+280,other,other,906b1739-ce95-11eb-8944-7c67a234f601
+281,item1,Computer Science,906b173a-ce95-11eb-b3d4-7c67a234f601
+282,other,other,906b3c84-ce95-11eb-8c2a-7c67a234f601
+283,item8,Medicine,906b3c85-ce95-11eb-9b87-7c67a234f601
+284,item2,Statistics,906b3c86-ce95-11eb-b6a7-7c67a234f601
+285,item1,Computer Science,906b65e2-ce95-11eb-8b5c-7c67a234f601
+286,other,other,906b65e3-ce95-11eb-a294-7c67a234f601
